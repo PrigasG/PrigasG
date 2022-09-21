@@ -2,7 +2,7 @@
 - 👀 I’m interested in data research and analysis
 - 🌱 I have been working on R and Quarto
 - 💞️ I’m looking to collaborate on any fun projects/ R statistical environment/ Quarto/ Python
-- 📫 How to reach me prigasgenthian48@gmail.com/ george8.arthur9@gmail.com
+- 📫 How to reach me prigasgenthian48@gmail.com
 - twitter: @GenthianPrigas
 
 <!---
