@@ -2,7 +2,7 @@
 - 👀 I’m interested in data research and analysis
 - 🌱 I have been working on projects in R and Quarto
 - 💞️ I’m looking to collaborate on any fun projects/ R statistical environment/ Quarto/ Python
-- 📫 How to reach me prigasgenthian48@gmail.com or CDC (slv6@cdc.gov)
+- 📫 How to reach me prigasgenthian48@gmail.com
 - twitter: @GenthianPrigas
 
 <!---
